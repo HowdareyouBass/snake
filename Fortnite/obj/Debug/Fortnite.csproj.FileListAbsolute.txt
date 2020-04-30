@@ -1,0 +1,13 @@
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.Fort.resources
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.Properties.Resources.resources
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.csproj.GenerateResource.cache
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.csproj.CoreCompileInputs.cache
+D:\Visual Proj\Fortnite\bin\Debug\Fortnite.exe.config
+D:\Visual Proj\Fortnite\bin\Debug\Fortnite.exe
+D:\Visual Proj\Fortnite\bin\Debug\Fortnite.pdb
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.exe
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.pdb
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.MainMenu.resources
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.csprojAssemblyReference.cache
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.SettingsMenu.resources
+D:\Visual Proj\Fortnite\obj\Debug\Fortnite.Shop.resources
